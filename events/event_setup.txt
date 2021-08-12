@@ -1,0 +1,15 @@
+add_namespace = startup
+
+country_event = {
+	
+	id = startup.1
+	title = startup.1.t 
+	desc = startup.1.d
+	picture = GFX_startup_news_event_x
+	
+	is_triggered_only = yes
+
+	option = {
+		name = startup.1.a
+	}
+}

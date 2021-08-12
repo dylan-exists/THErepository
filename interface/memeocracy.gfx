@@ -1,0 +1,8 @@
+spriteTypes = {
+
+spriteType = {
+		name = "GFX_ideology_memeocracy_group"
+		texturefile = "gfx//interface//ideologies//memeocracy_group.dds"
+	}
+
+}

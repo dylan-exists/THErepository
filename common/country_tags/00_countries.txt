@@ -1,0 +1,3 @@
+LIT	= "countries/Lithuania.txt"
+EST	= "countries/Estonia.txt"
+LAT	= "countries/Latvia.txt"
